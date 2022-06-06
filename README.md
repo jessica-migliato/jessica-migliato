@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Jessica Migliato
 
-- 🌱 Estudando ReactJs
+- 🌱 Estudando React Js
 
 <div align="center">
   <a href="https://github.com/jessica-migliato">
