@@ -1,4 +1,4 @@
-## Oi! Eu sou a Jessica Migliato
+## Oii!
 
 - 🌱 Estudando React Js
 
